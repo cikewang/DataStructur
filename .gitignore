@@ -1,0 +1,6 @@
+/.metadata/
+/.gitignore/
+/RemoteSystemsTempFiles/
+/*/.*
+/*/Debug/
+/*/Release/
