@@ -14,6 +14,11 @@ using namespace std;
 class Node {
 public:
 	Node();
+	Node *SearchNode(int nodeIndex);
+	void DeleteNode();
+	void PreorderTraversal();
+	void LorderTraversal();
+	void RorderTraversal();
 	int index;
 	int data;
 	Node *pLChild;
